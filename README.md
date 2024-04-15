@@ -14,21 +14,17 @@ Olá! Eu sou o Jônatas Trindade 😁👋
 
  ✌️ &emsp; Hello eveyone! I am from Brasil <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- </p>
-
-
-  <a width="100">
+ </p> 
     
-  [![perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/j%C3%B4natas-trindade-lira-50515519b/)<br/>
- 🧑‍💻 See my professional profile 
-<br/>
-  </a>
+
+## My profiles
+
+[![perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/j%C3%B4natas-trindade-lira-50515519b/) 
+
 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/jonatas_desenvolvedor_java/) 🧑‍💼 Here you can meet me outside the computer 
- 
-
+)](https://www.instagram.com/jonatas_desenvolvedor_java/)
 ## Minha Coisas
 
 <p>
